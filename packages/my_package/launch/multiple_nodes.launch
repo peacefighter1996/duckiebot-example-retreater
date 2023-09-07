@@ -24,7 +24,7 @@
     <node pkg="my_package" type="joy_subscriber.py" 
     name="joy_subscriber_1"  output="screen">
       <remap from="~/sub_endpoint" to="joy"/>
-    </node>-->
+    </node>
   </group>
 
 </launch>
